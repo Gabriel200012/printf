@@ -18,7 +18,7 @@
 
  * @size: Size specifier
 
- * Return: Number of chars printed.
+ * Return: Number of chars printed
 
  */
 

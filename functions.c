@@ -2,7 +2,6 @@
 
 
 
-
 /**
 
  * print_char - Prints a char

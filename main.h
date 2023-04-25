@@ -42,7 +42,7 @@
 
  * @fmt: The format.
 
- * @fn: The function associated.
+ * @fn: The function associated
 
  */
 
